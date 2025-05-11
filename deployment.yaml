@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: web
-        image: docker.io/manji955/simple-web-app:868b21e
+        image: docker.io/manji955/simple-web-app:2f60267
         ports:
         - containerPort: 80
